@@ -1,4 +1,4 @@
-package com.devrezaur.main;
+package com.QuizApp.main;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
