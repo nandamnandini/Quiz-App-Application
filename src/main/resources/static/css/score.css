@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.main-container {
+	height: 750px;
+	
+	
+}
+.nav{
+	font-size: 35px;
+	padding-top: 10px;
+	height: 70px;
+	padding-left: 765px;
+	margin-top: 50px;
+}
+
+table {
+	margin-left: 580px;
+	width: 700px;
+	text-align: center;
+}
+
+
+th, td {
+	font-size: 25px;
+	padding: 10px;
+}
+
+footer {
+	height: 80px;
+	text-align: center;
+	
+}

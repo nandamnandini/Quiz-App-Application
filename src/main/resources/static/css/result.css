@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.main-container {
+	height: 700px;
+	
+	/*min-height: calc(100vh - 136px);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;*/
+}
+
+.card {
+	width: 600px;
+	margin-top: 200px;
+	margin-left: 700px;
+}
+
+img {
+	width: 500px;
+	position: relative;
+	display: block;
+	margin: -120px auto 50px auto;
+}
+
+.card button {
+	width: 45%;
+}
+.score{
+	text-align: center;
+	height: 45px;
+	background-color: grey;
+}
+
+
+footer {
+	height: 80px;
+	text-align: center;
+	/*line-height: 80px;*/
+}

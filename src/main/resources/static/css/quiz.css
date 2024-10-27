@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	overflow-x: hidden;
+}
+
+.nav{
+	margin-top: 20px;
+	background-color: white;
+	padding-left: 500px;
+}
+
+h1 {
+	
+	font-size: 27px;
+	text-align: center;
+	padding: 15px 25px;
+	border-radius: 4px;
+}
+
+.ques-box {
+	height: 250px;
+	width: 100%;
+	max-width: 800px;
+	padding: 15px 25px;
+	margin: 50px auto 0 auto;
+	border-radius: 4px;
+	background-color:white;
+}
+
+.option {
+	margin-top: 10px;
+	padding-top: 15px;
+	display: flex;
+	flex-direction: row;
+}
+
+.title {
+	font-size: 18px;
+	font-weight: 500;
+	color:black;
+}
+
+.option p {
+	padding-top: 5px;
+	text-align: center;
+	margin-left: 15px;
+	position: relative;
+	/*margin-top: -6px;*/
+}
+
+footer {
+	height: 80px;
+	text-align: center;
+	/*line-height: 80px;*/
+}
