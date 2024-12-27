@@ -13,17 +13,18 @@ body {
 	height: 750px;
 	
 	
+	
 }
 .nav{
 	font-size: 35px;
 	padding-top: 10px;
 	height: 70px;
-	padding-left: 765px;
+	padding-left: 400px;
 	margin-top: 50px;
 }
 
 table {
-	margin-left: 580px;
+	margin-left: 220px;
 	width: 700px;
 	text-align: center;
 }
